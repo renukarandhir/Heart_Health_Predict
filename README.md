@@ -1,4 +1,4 @@
-# # Heart Health Predict  
+## Heart Health Predict  
 **Heart Disease Prediction using Machine Learning**
 
 This project uses **machine learning** techniques to predict whether an individual is likely to have **heart disease** based on key medical and demographic indicators. The model is trained on a health dataset containing features such as **age**, **cholesterol levels**, **blood pressure**, and **exercise habits**, helping in early identification of high-risk patients.
