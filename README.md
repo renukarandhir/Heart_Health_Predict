@@ -1,4 +1,4 @@
-# heart-health-predict
+# Heart_Health_Predict
 Heart Disease Prediction using Machine Learning
 
 This project leverages machine learning to predict whether a person has heart disease based on various medical and demographic features. The model is trained using a health dataset and predicts heart disease risk based on features such as age, cholesterol levels, blood pressure, exercise habits, and more.
